@@ -96,8 +96,6 @@
             </dependency>
             <!-- jhipster-needle-maven-add-dependency-management -->
         </dependencies>
-        <build>
-</build>
     </dependencyManagement>
 
     <dependencies>
